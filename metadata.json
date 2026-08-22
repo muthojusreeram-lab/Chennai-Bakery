@@ -1,0 +1,8 @@
+{
+  "name": "Chennai Bakery",
+  "description": "Authentic, freshly baked cakes, breads, cookies, eggless and healthy diabetic-friendly treats with Chennai local flavours and doorstep delivery across Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
