@@ -1,4 +1,5 @@
-🥐 Chennai Bakery E-Commerce Platform (https://ai.studio/apps/6ed034d9-cad7-4313-b444-0ae45b61d977)
+🥐 Chennai Bakery E-Commerce Platform (https://chennai-sweets-corner.lovable.app)
+
 Welcome to the repository for Chennai Bakery, a vibrant, full-featured e-commerce web application designed for a local artisan bakery in Chennai. The platform specializes in authentic regional flavors, daily fresh bakes, and healthy/diabetic-friendly treats, providing a seamless shopping experience for customers and a robust management dashboard for administrators.
 
 🌟 Key Features
